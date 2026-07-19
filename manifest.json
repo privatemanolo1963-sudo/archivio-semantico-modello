@@ -1,0 +1,4 @@
+{"modello": {"file": "model_quantized.onnx", "blocchi": ["modello_00","modello_01","modello_02","modello_03","modello_04","modello_05","modello_06","modello_07","modello_08","modello_09","modello_10","modello_11","modello_12","modello_13","modello_14"], "byte_totali": 118308185},
+ "tokenizer": {"file": "tokenizer.json", "blocchi": ["tokenizer_00","tokenizer_01","tokenizer_02"], "byte_totali": 17082730},
+ "altri_file": ["config.json","tokenizer_config.json","special_tokens_map.json"],
+ "origine": "Xenova/multilingual-e5-small (ONNX int8), licenza MIT"}
